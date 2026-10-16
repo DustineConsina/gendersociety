@@ -259,6 +259,12 @@ export default function Home() {
               <p className="text-purple-400 text-xs mt-3">
                 Midterm Project — Gender & Society
               </p>
+              <p className="text-purple-400 text-xs mt-2">Created by:</p>
+              <ul className="text-purple-300 text-xs mt-1 space-y-1">
+                <li>Consina, Dustine B.</li>
+                <li>Forte, Eralyn G.</li>
+                <li>Atanoso, Meryl</li>
+              </ul>
             </div>
 
             <div>
